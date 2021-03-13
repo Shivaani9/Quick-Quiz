@@ -1,0 +1,132 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('bg-01.jpg');
+  background-size: cover;
+}
+.card-body{
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background: rgba(220,220,220,.5);
+  border-radius: 15px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.card-body input{
+  display: block;
+  width: 100%;
+  background: rgba(240,240,240,.5);
+  border: none;
+  font-size: 16px;
+  padding: 15px;
+  outline: none;
+  border-radius: 40px;
+  color: black;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.card-body button{
+  display: block;
+  width: 100%;
+  border: none;
+  font-size: 16px;
+  padding: 15px;
+  outline: none;
+  border-radius: 40px;
+  color: black;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.card-body button:hover{
+  opacity: .8;
+}
+.card-body img{
+  width: 100px;
+  display: block;
+  margin: 10px auto;
+ opacity: .7;
+}
+
+.container{
+  {
+    width: 100%;
+    max-width: 400px;
+    padding: 35px;
+    background: rgba(220,220,220,.5);
+    border-radius: 15px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+  }
+
+}
+
+.pannel-body{
+  width: 100%;
+  max-width: 400px;
+  padding: 35px;
+  background: rgba(220,220,220,.5);
+  border-radius: 15px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.form-group{
+  width: 100%;
+  max-width: 400px;
+  padding: 45px;
+  background: rgba(220,220,220,.5);
+  border-radius: 25px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.form-group input{
+  display: block;
+  width: 100%;
+  background: rgba(240,240,240,.5);
+  border: none;
+  font-size: 16px;
+  padding: 0px;
+  outline: none;
+  border-radius: 0px;
+  color: #555;
+  margin: 0px auto;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.form-group button{
+  display: block;
+  width: 100%;
+  background: #fff;
+  border: none;
+  font-size: 16px;
+  padding: 15px;
+  outline: none;
+  border-radius: 40px;
+  color: #fff;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
+.form-group button:hover{
+  opacity: .8;
+}
+.form-group img{
+  width: 100px;
+  display: block;
+  margin: 10px auto;
+ opacity: .7;
+}
+.btn {
+  width: 100%;
+  background: rgba(240,240,240,.5);
+  border: none;
+  font-size: 30px;
+  padding: 0px;
+  outline: none;
+  border-radius: 50px;
+  color: black;
+  margin: 30px auto;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1);
+}
