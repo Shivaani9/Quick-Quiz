@@ -11,3 +11,4 @@ The Image indicates the block diagram and progress of events in the project.
 
 Quiz App facilitates a user friendly environment for learning new concepts as well as revising previously studied concepts, thereby increasing the learning efficiency of students.
 This application has multiple choice questions where scores of students are calculated on the basis of number of correct answers.
+Efficiency of this application is improved by adding a timer which gives students a specific time limit for answering each question.
