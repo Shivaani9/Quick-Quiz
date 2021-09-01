@@ -15,3 +15,4 @@ Efficiency of this application is improved by adding a timer which gives student
 Answers are checked immediately after the question has been answered within a stipulated time.
 Answers are not accepted if it is marked after the timer goes off.
 A lot of manual work is reduced due to the automatic answer verification.
+This application can be used by students belonging to any age group. The user database can be expanded thereby improving the usability of the website application.
