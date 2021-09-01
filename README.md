@@ -14,3 +14,4 @@ This application has multiple choice questions where scores of students are calc
 Efficiency of this application is improved by adding a timer which gives students a specific time limit for answering each question.
 Answers are checked immediately after the question has been answered within a stipulated time.
 Answers are not accepted if it is marked after the timer goes off.
+A lot of manual work is reduced due to the automatic answer verification.
