@@ -1,7 +1,7 @@
 # Quick-Quiz
 
 The Concept of quizzes is currently popular among educated circles as well as in entertainment shows, this web application focusses on creating interactive quizzes with a
-large set of questions. Providing its users 
+large set of questions. Providing its users with immense
 This application utilizes important concepts in HTML, CSS, JavaScript and PHP design using bootstrap framework and Xampp apache web server.
 This application reduces paper work and all the information will be stored safely in the JavaScript file. 
 This application fetches questions from the JavaScript file which will be displayed on the screen in an interactive fashion, to access which the user has to register an account with the website and gain login access to the website. 
